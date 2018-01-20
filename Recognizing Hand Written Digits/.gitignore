@@ -1,0 +1,3 @@
+*.ipynb
+*__
+load_data.pyc
